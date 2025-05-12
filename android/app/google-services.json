@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "84848594418",
+    "project_id": "midwife-55fff",
+    "storage_bucket": "midwife-55fff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84848594418:android:f7b5db2eae87b8b9f3ef6b",
+        "android_client_info": {
+          "package_name": "com.midWifePatient"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9SZ3nehyUAO7EyAnwKEO25YeQ7y2EvXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
